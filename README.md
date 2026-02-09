@@ -1,2 +1,2 @@
-# 🛠️ E1-M6 Ejercicio
-## Tu Primer Servidor Web 🚀
+# 🛠️ E2-M6 Ejercicio
+## Estructura Profesional de un Proyecto Node.js
